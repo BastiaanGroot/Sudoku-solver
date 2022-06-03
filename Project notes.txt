@@ -1,0 +1,13 @@
+- Backtracking algorithm (for solving)
+- Pygame gui
+
+---------------------------------------------
+Rules:
+- Every row has 1-9
+- Every column has 1-9
+- Every nine blocks has 1-9
+
+---------------------------------------------
+- For checking number availability in each box:
+There has to be only 1 free space per number to be filled
+in, find the box, and loop over each 0.
